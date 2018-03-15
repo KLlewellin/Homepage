@@ -1,7 +1,4 @@
-<!DOCTYPE html>
 <html>
-  <head>
-  </head>
 <body> 
   <P><h1>Welcome to the landing page for Kate Llewellin!</h1></p>
   <p>Here I will be showcasing my abilities as I go forth and complete a degree in Web Development, and at the same time, get to grips with github.</p>
