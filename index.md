@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title>LandingPage</title>  
   </head>
 <body> 
   <P><h1>Welcome to the landing page for Kate Llewellin!</h1></p>
